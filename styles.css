@@ -27,7 +27,8 @@ body{
 }
 
 .calculator-grid > button:hover {
-    background-color: lightskyblue
+    background-color: lightskyblue;
+    font-weight: 900;
 }
 
 
